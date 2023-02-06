@@ -78,4 +78,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beincharacter&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![](https://leetcard.jacoblin.cool/beincharacter?ext=heatmap)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beincharacter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

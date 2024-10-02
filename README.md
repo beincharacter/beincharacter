@@ -1,89 +1,42 @@
-<h2 >HELLO WORLD :)</h2>
-<br>
+# Hi, I'm Shubham Pal! 👋
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=5006&pause=1000&width=900&height=87&lines=Hey+%F0%9F%96%90%EF%B8%8F%2C+this+is+Shubham+Pal+%3A%5D;A+fuLL+Stack+Developer." alt="Typing SVG" /></a>
-</div>
+### Full Stack Developer | JavaScript | TypeScript | React | Vue | Node.js
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=beincharacter&style=flat-square&color=blue" alt="view-count"/>
- </div
+Welcome to my GitHub! I’m a passionate software developer specializing in full-stack development, with a strong foundation in JavaScript, TypeScript, and modern web frameworks like React.js and Vue.js. I’m always looking for new challenges and ways to improve both my technical and problem-solving skills.
 
+### 🔧 Tech Stack:
+- **Languages**: JavaScript, TypeScript
+- **Frontend**: React.js, Vue.js, SCSS, CSS, HTML, Tailwind CSS, Storybook, Redux, Vuex
+- **Backend**: Node.js, Express.js, Prisma, Firebase
+- **Databases**: MongoDB, PostgreSQL
+- **DevOps & Version Control**: AWS EC2, Vercel, Render, Netlify, Git, GitHub
+- **Tools & Methodologies**: Jira, Agile Methodology, Project Management, Task Management
 
-<h1> LIVING CODE EVERY SECOND...</h1>
+### 💼 Current Role: 
+I am currently working as an SDE at **Mobius by Gaian** where I:
+- Develop innovative plugins for Monet, increasing user engagement by 35%.
+- Lead the development of a Dashboard as a Service (DaaS) platform, improving office-wide communication by 40%.
+- Contribute to the marketing efforts by creating responsive websites that increased mobile traffic by 45%.
 
+### 🌱 I’m currently working on:
+- **Hiring Platform**: A job application platform that reduces hiring time from 4 weeks to 1-2 weeks.
+- **LaundryCart App**: A full-stack application to manage laundry orders, featuring a centralized dashboard for activity tracking.
+- **ImageToURL**: A tool for efficient asset storage, providing easy retrieval and integration of large files via cloud-based URLs.
 
-<hr>  
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center"> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/beincharacter" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/beincharacter" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/beincharacter" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/pal-shubham" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
- 
-    
- <a href="https://shubham-pal.onrender.com/" target="_blank">
- <img alt="Website" src="https://img.shields.io/website?down_message=under%20construction&style=for-the-badge&up_message=click%20here&url=https%3A%2F%2Fshubham-pal.onrender.com%2F">
-</a>  
- 
-</div>  
+### 📊 Achievements:
+- Solved 300+ problems on LeetCode with a rating of 1500+.
+- Built 8 projects as part of my Full Stack Certification.
   
+### 🌐 Find me on:
+- [GitHub](https://github.com/beincharacter)
+- [LeetCode](https://leetcode.com/beincharacter)
+- [LinkedIn](http://www.linkedin.com/in/pal-shubham)
+- [Medium](http://beincharacter.medium.com)
 
-<br/>  
+### 💻 Projects:
+Check out some of my recent projects:
+- **[Hiring Platform](https://github.com/beincharacter/jobs)**: A comprehensive platform for managing job openings and candidate applications.
+- **[LaundryCart](https://github.com/beincharacter/LaundryCart-Client)**: A full-stack application for managing laundry orders and tracking their status.
+- **[ImageToURL](https://github.com/beincharacter/image_to_url)**: A streamlined tool for cloud asset storage and URL generation.
 
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beincharacter&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![](https://leetcard.jacoblin.cool/beincharacter?ext=heatmap)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beincharacter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to explore my repositories or get in touch if you want to collaborate on exciting projects!
